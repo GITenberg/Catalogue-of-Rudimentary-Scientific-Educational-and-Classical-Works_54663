@@ -1,11 +1,16 @@
 _repo: Catalogue-of-Rudimentary-Scientific-Educational-and-Classical-Works_54663
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54663-h/images/cover.jpg
 creator:
   author:
     agent_name: Virtue, James S.
     gutenberg_agent_id: '47980'
     url: http://www.gutenberg.org/2009/agents/47980
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54663#Catalogue-of-Rudimentary-Scientific-Educational-and-Classical-Works
 gutenberg_issued: '2017-05-05'
 gutenberg_type: Text
 identifiers:
